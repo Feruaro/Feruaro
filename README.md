@@ -5,7 +5,7 @@
         <H4> ❤ Passionate about everything that involves technology </H4>
         <H4> ☁ If you can dream it, you can do it! </H4>
     </p>
-    <p align="right"> <img height="150em" src="https://github.com/Feruaro/Feruaro/blob/main/git.png"/></p>
+    <img align="right" height="150em" src="https://github.com/Feruaro/Feruaro/blob/main/git.png"/>
 </div>
 
   ##
