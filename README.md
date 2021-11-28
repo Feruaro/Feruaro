@@ -1,5 +1,5 @@
 <img align="right" height="220em" src="https://github.com/Feruaro/Feruaro/blob/main/git.png"/>
-<H1> Hi there, I'm Fernanda Ruaro 👋</H1>  
+<H1> Hi there, I'm Fernanda Ruaro 🤝</H1>  
 <H4> 📚 A student of Software Engineer and Data Science </H4>
 <H4> ❤ Passionate about everything that involves technology </H4>
 <H4> ☁ If you can dream it, you can do it! </H4>  
@@ -35,7 +35,8 @@
   ##
   
 <div align="center">
-    <p> <img align="center" src="https://profile-counter.glitch.me/Feruaro/count.svg" /></p>
+  <p align="center"> Thank you and come again!👋 </p>  
+  <p> <img align="center" src="https://profile-counter.glitch.me/Feruaro/count.svg" /></p>
 </div>
 
 
