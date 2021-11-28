@@ -1,8 +1,8 @@
-<H1> Hi there, I'm Fernanda Ruaro 👋</H1>
-  <img align="right" height="150em" src="https://github.com/Feruaro/Feruaro/blob/main/git.png"/>
-  <H4> 📚 A student of Software Engineer and Data Science </H4>
-  <H4> ❤ Passionate about everything that involves technology </H4>
-  <H4> ☁ If you can dream it, you can do it! </H4>  
+<img align="right" height="150em" src="https://github.com/Feruaro/Feruaro/blob/main/git.png"/>
+<H1> Hi there, I'm Fernanda Ruaro 👋</H1>  
+<H4> 📚 A student of Software Engineer and Data Science </H4>
+<H4> ❤ Passionate about everything that involves technology </H4>
+<H4> ☁ If you can dream it, you can do it! </H4>  
 
   ##
 
