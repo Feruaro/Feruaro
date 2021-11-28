@@ -5,7 +5,7 @@
         <H4> ❤ Passionate about everything that involves technology </H4>
         <H4> ☁ If you can dream it, you can do it! </H4>
     </p>
-    <p align="right"><img src="\Imagens\git.png" target="_blank"></p>
+    ![imagem git](file:///C:/Users/user/Pictures/git.png)
 </div>
 
   ##
