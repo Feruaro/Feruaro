@@ -1,10 +1,11 @@
 <H1> Hi there, I'm Fernanda Ruaro 👋</H1>
 <div>
-    <p>
+    <p align="left">
         <H4> 📚 A student of Software Engineer and Data Science </H4>
         <H4> ❤ Passionate about everything that involves technology </H4>
         <H4> ☁ If you can dream it, you can do it! </H4>
     </p>
+    <p align="right"> ![git](https://user-images.githubusercontent.com/87439386/143772919-fcf9a4ea-b82e-4a4f-9f25-a9eb73f0f635.png)</p>
 </div>
 
   ##
