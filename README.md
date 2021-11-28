@@ -39,7 +39,7 @@
   
 <div align="center">
     <p align="right"> <img src="https://profile-counter.glitch.me/Feruaro/count.svg" /></p>
-    <p align="left"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
+    <p align="left"> <img src='https://random-memer.herokuapp.com/' title="Meme"></p>
 </div>
 
 
