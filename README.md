@@ -1,9 +1,9 @@
-<H2> Hi there, I'm Fernanda Ruaro 👋</H2>
+<H1> Hi there, I'm Fernanda Ruaro 👋</H1>
 <div>
     <p>
         <H4> 📚 A student of Software Engineer and Data Science </H4>
         <H4> ❤ Passionate about everything that involves technology </H4>
-        <H4> If you can dream it, you can do it! </H4>
+        <H4> ☁ If you can dream it, you can do it! </H4>
     </p>
 </div>
 
