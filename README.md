@@ -1,4 +1,4 @@
-<img align="right" height="250em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
+<img align="right" height="270em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
 <H1> Hi there, I'm Fernanda Ruaro 🤝</H1>  
 <H4> 📚 A student of Software Engineer and Data Science </H4>
 <H4> ❤ Passionate about everything that involves technology </H4>
@@ -7,7 +7,7 @@
 
   ##
 
-<div align="center">
+<div align="center"><br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Feruaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feruaro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -36,7 +36,7 @@
 
   ##
   
-<div align="center">
+<div align="center"><br>
   <p align="center"> Thank you and come again!👋 </p>  
   <p> <img align="center" src="https://profile-counter.glitch.me/Feruaro/count.svg" /></p>
 </div>
