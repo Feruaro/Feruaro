@@ -1,4 +1,4 @@
-<img align="right" height="220em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
+<img align="right" height="250em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
 <H1> Hi there, I'm Fernanda Ruaro 🤝</H1>  
 <H4> 📚 A student of Software Engineer and Data Science </H4>
 <H4> ❤ Passionate about everything that involves technology </H4>
