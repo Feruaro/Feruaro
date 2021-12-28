@@ -3,6 +3,9 @@
 <H4> 📚 A student of Software Engineer and Data Science </H4>
 <H4> ❤ Passionate about everything that involves technology </H4>
 <H4> ☁ If you can dream it, you can do it! </H4>  
+<br><br>
+
+  ##
 
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Feruaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
