@@ -1,4 +1,6 @@
-@mixin center {
+<head>
+    <style>
+       @mixin center {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -86,8 +88,10 @@ body {
       }
       }
   }
-}
-
+}   
+    </style>
+</head>
+<body>
 <img align="right" height="270em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
 
 <div class="hello">
@@ -134,5 +138,5 @@ body {
   <p align="center"> Thank you and come again!👋 </p>  
   <p> <img align="center" src="https://profile-counter.glitch.me/Feruaro/count.svg" /></p>
 </div>
-
+</body>
 
