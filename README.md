@@ -1,8 +1,9 @@
 <img align="right" height="270em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
 
-<H1> Hi there, I'm Fernanda Ruaro 🤝</H1> 
-<H4> 📚 A student of Software Engineer and Data Science </H4>
-<H4> ❤ Passionate about everything that involves technology </H4>
+<H1> Oláá, Eu sou a Fernanda Ruaro 🤝</H1> 
+<H4> 👩‍💻 Sou Engenheira de Software Jr. no Banco PAN </H4>
+<H4> 📚 Sou estudante de Engenharia de Software e Ciências de Dados</H4>
+<H4> ❤ Apaixonada por tecnologia e programação fullstack </H4>
 <H4> ☁ If you can dream it, you can do it! </H4>  
 <br><br>
 
