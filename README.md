@@ -1,9 +1,9 @@
 <img align="right" height="270em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
 
-<H1> Oláá, Eu sou a Fernanda Ruaro 🤝</H1> 
-<H4> 👩‍💻 Sou Engenheira de Software Jr. no Banco PAN </H4>
-<H4> 📚 Sou estudante de Engenharia de Software e Ciências de Dados</H4>
-<H4> ❤ Apaixonada por tecnologia e programação fullstack </H4>
+<H1> Hi, I'm Fernanda Ruaro 🤝</H1> 
+<H4> 👩‍💻 I'm Dev. FullStack Jr. at Banco Pan </H4>
+<H4> 📚 I am a Software Engineering student</H4>
+<H4> ❤ Passionate about technology </H4>
 <H4> ☁ If you can dream it, you can do it! </H4>  
 <br><br>
 
@@ -15,14 +15,16 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-    <img alt="Fe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img alt="Fe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img alt="Fe-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img alt="Fe-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img alt="Fe-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="Fe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img alt="Fe-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-    <img alt="Fe-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
+    <img alt="ícone HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img alt="Ícone CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img alt="Ícone JavaScript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="Ícone TypeScript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img alt="Ícone Angular" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img alt="Ícone NodeJS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img alt="Ícone NestJS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img alt="Ícone Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="Ícone Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img alt="ícone git" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
 
   ##
