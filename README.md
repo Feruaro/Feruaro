@@ -1,7 +1,7 @@
 <img align="right" height="270em" src="https://github.com/Feruaro/Feruaro/blob/main/1.png"/>
 
 <H1> Hi, I'm Fernanda Ruaro 🤝</H1> 
-<H4> 👩‍💻 I'm Dev. FullStack Jr. at Banco Pan </H4>
+<H4> 👩‍💻 I'm Dev. FullStack PL. at Banco Pan </H4>
 <H4> 📚 I am a Software Engineering student</H4>
 <H4> ❤ Passionate about technology </H4>
 <H4> ☁ If you can dream it, you can do it! </H4>  
